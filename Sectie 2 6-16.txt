@@ -1,0 +1,32 @@
+1. Javascript is een objectgeoriënteerde programmeertaal op hoog niveau met meerdere paradigma's
+2. Javascript is de echte programmeer taal van een website.
+3. Javascript is een programmeertaal op hoog niveau
+4. Een webapplicatie is een toepassing die werkt op basis van een webbrowser.
+5. ES6 is de zesde en grootste update van JavaScript sinds de initiële release.
+6. <script language ="javascript">
+<script>
+7. stukken met informatie.
+8. naam van een opslagplek.
+9. Een variabelenaam wordt gebruikt om naar een variabele te verwijzen.
+10.
+11. dat is de manier hoe iets 'normaal'gedaan word.
+12.a.
+13.c.
+14.de opbouw en structuur van zinsdelen en zinnen.
+15. fouten door een object te herinneren aan een andere naam.
+16. een syntractische fout is een fout in de opbouw van de zin en een semantische fout is.
+17.is een classificatie die specificeert welk type waarde een variabele heeft en welk type wiskundige, relationele of logische bewerkingen erop kunnen worden toegepast zonder een fout te veroorzaken.1
+18. commentaar is een goeie manier voor andere mensen om code van andere makkelijker te begrijpen, je kan zelf terug zien hoe en waarom je iets hebt gedaan, je kan zo bij houden wat je nog moet doen.
+19. zonder de "" werkt de code niet.
+20.een probleem van het verleden die nogsteeds niet is opgelost.
+21. a = 3 , b = 1 , c = 2.
+22. 
+23.
+24.
+25.
+26. 20
+37. Operatorvoorrang specificeert de manier waarop operanden worden gegroepeerd met operators, const result = (1 + 2 * 3);
+console.log(result);
+38."+="
+39.
+40. een conditional operator word eerder uitgevoerd dan een assignment operator

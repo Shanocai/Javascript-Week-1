@@ -1,0 +1,10 @@
+1.conversion is wanneer je handmatig van 1 type naar een andere type converteert, coercion is wanneer javascript automatisch van het ene type naar het andere type converteert.
+2. de ingebouwde functie (Number).
+3. de (String) functie
+4. 12
+5. -12
+11. een falsey value is een value die als onwaar wordt beschouwd wanneer deze wordt aangetroffen in een Booleaanse context
+12. een thruty value is een value die als waar wordt beschouwd wanneer deze wordt aangetroffen in een Booleaanse context.
+13. "Niet waar!"
+14. "Niet waar!"
+18. "Waar!"

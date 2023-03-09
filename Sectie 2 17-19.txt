@@ -1,0 +1,9 @@
+1. een string is een reeks tekens die wordt gebruikt om tekst weer te geven
+2.(&)
+3. "Jorn is stupid"
+4. "Jorn is Briljant"
+5. hello ${firstName}
+6. het woord "am" staat niet tussen de juiste aanhaalingstekens
+7. 
+8. controlstructures zijn programmeerblokken die het pad dat we door die instructies nemen kunnen veranderen.
+9. omdat het meerdere opties heeft waardoor het het pad kan verandere onder bepaalde omstandigheden
